@@ -1,0 +1,4 @@
+4. list course -> pendaftaran front end
+1. back end=>pembagian kelas-->ok
+2. back end=>sortin by class-->ok
+3. back end=>status pada kelas->aktif-->ok
